@@ -1,5 +1,5 @@
 # game
-GAME               = 'Pong'
+GAME               = 'Breakout'
 ENV_ID             = f'{GAME}NoFrameskip-v4'
 
 # algorithm
